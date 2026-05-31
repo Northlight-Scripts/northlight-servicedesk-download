@@ -1,18 +1,13 @@
-# Northlight Animation Studios Website V2
+# Northlight Service Desk Download Website
+
+Private Download-Seite für die Northlight Service Desk App.
 
 ## Dateien
-- index.html = Website-Struktur
-- style.css = filmisches Design
-- script.js = Deutsch/Englisch-Switch + Mail kopieren
-- logo.png = Logo
-- favicon.png = Browser-Icon
-- hero-cinema.svg = Startbild
-- trailer-poster.svg = Trailerbild
 
-## Social Links
-- Instagram: https://www.instagram.com/northlightanimationstudio/
-- YouTube: https://www.youtube.com/@NorthlightAnimationStudio
-- Linktree: https://linktr.ee/NorthlightAnimationStudio
-
-## Upload
-Alle Dateien direkt ins GitHub Repository hochladen und die alten Dateien ersetzen.
+```txt
+index.html
+style.css
+script.js
+impressum.html
+datenschutz.html
+README.md
