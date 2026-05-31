@@ -1,7 +1,7 @@
 const GOOGLE_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbySlXJp6C1cW20kWY_jqHFlLKvkP95368uwUPo1BQ1VNSvfAsgW_HVftOX2kL7pHv-U/exec";
 
-const APP_VERSION = "0.1.0";
-const INSTALLER_FILE = "https://github.com/Northlight-Scripts/northlight-servicedesk-download/releases/download/v0.1.0/Northlight.ServiceDesk.Setup.0.1.0.exe";
+const APP_VERSION = "1.0.0";
+const INSTALLER_FILE = "https://github.com/Northlight-Scripts/northlight-servicedesk-download/releases/download/v1.0.0/Northlight%20ServiceDesk%20Setup%201.0.0.exe";
 
 const versionElement = document.getElementById("appVersion");
 const downloadButton = document.getElementById("downloadBtn");
